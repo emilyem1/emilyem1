@@ -3,7 +3,7 @@
 I'm an aspiring Full Stack Web Developer, chasing the dream one semicolon at a time.
 
 - 🇨🇦 Based in Vancouver, Canada
-- 🌱 Currently learning Python
+- 🌱 Currently learning Vue
 - 🎓 Recent graduate of Lighthouse Labs Full Stack Web Development Bootcamp
 
 ## Languages
