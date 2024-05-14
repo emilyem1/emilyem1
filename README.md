@@ -1,6 +1,6 @@
 # Hi, I'm Emily! 👋
 
-I'm an aspiring Full Stack Web Developer, chasing the dream one semicolon at a time.
+I'm a Front End Devloper at [Thinkingbox](https://thinkingbox.com/), bringing projects to life one semicolon at a time!
 
 - 🇨🇦 Based in Vancouver, Canada
 - 🌱 Currently learning Vue
